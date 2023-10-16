@@ -7,7 +7,7 @@ TangoLeaf is a Dota2 Discord bot that enhances your server by offering Steam acc
 ## Contents
 
 - [Steam Account Integration](#steam-account-integration)
-- [Match Info, Last and Chat](#match-info--last-and-chat)
+- [Match Info, Last and Chat](#match-info-last-and-chat)
 - [Advanced Match Filtering](#advanced-match-filtering)
 - [Pro Scene Stats](#pro-scene-stats)
   * [Players](#players)
