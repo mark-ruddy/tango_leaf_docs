@@ -3,7 +3,7 @@ TangoLeaf is a Dota2 Discord bot that enhances your server by offering Steam acc
 
 - Join the [TangoLeaf Discord](https://discord.com/invite/EcqKMrzw5b) to use the bot and receive support
 - Invite the [TangoLeaf Bot](https://discord.com/oauth2/authorize?client_id=1161638349421940786&permissions=551903676480&scope=bot) to your own Discord server
-- View the [TangoLeaf Docs](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/mark-ruddy/tango_leaf_docs/main&homepage=usage.md&dark-mode=true#/)
+- View the [TangoLeaf Docs](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/mark-ruddy/tango_leaf_docs/main&homepage=usage.md&dark-mode=true&browser-tab-title=TangoLeaf#/)
 
 ## Contents
 
