@@ -98,6 +98,6 @@ And as seen before you can use `/league matches` with filtering to find matches 
 ### Meta
 TangoLeaf currently has one meta command with more planned for development.
 
-To display a table with information on how a hero performs playing with or against other heroes in the recent meta. For example Phantom Assassin's matchup info - `/meta hero_matchups hero: pa`:
+Matchups displays information on how a hero performs playing with or against other heroes in the recent meta. For example Phantom Assassin's matchup info - `/meta hero_matchups hero: pa`:
 
 ![PA Matchups](assets/pa_matchups.png)
