@@ -65,7 +65,7 @@ Get detailed information about a match. A tip is when filtering matches, use the
 
 Get info on your last match or a filtered match from the perspective of one player, the basic use is to be logged in and run `/match last` to see your most recent match. Another example would be using it with a `@mention` and a hero filter, this example will get `@markr`'s last match as puck - `/match last steam_id: @markr heroes: puck`:
 
-![Match Last](assets/match_last_puck_example.png)
+![Match Last](assets/match_last_puck.png)
 
 View the all chat logs for a match. Here is a calm example as it's from a pro match - `/match chat match_id: 7233123840`:
 
