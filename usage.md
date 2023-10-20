@@ -91,7 +91,7 @@ Once you know the league ID that you're interested in, you can get info on it - 
 
 ![League Info](assets/league_info.png)
 
-And as seen before you can use `/league matches` with filtering to find matches in a league. Here is example for all games in TI12 that had either Rubick or Invoker picked - `/league matches leauge_id: x heroes: rubick,invo`:
+And as seen before you can use `/league matches` with filtering to find matches in a league. Here is example for all games in TI12 that had either Rubick or Invoker picked - `/league matches leauge_id: 14268 heroes: rubick,invo`:
 
 ![TI12 Matches](assets/ti12_league_example.png)
 
